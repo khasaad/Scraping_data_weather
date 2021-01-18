@@ -38,6 +38,15 @@
           </ul>
       </ul>
     <li>partie visualisation</li>
+    Cette partie contient un script python:<br/>
+    visualisation.py:  <br/>
+    Il contient deux fonctions: 
+  <ul>
+    <li>correlation_between_temperature_and_tweets(df, year='2018', month='08'):</li>
+    Elle visualise la corrélation entre température et tweets en utilisant matplotlib library.
+     <li>show_temperature_same_months_in_18_19_20(month='01'):</li>
+    Elle visualise la température pendant un mois souhaitée pour les années 2018, 2019 et 2020 dans le même graphe.
+  </ul>
   </ol>
   
 </body>
