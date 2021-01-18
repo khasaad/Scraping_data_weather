@@ -2,7 +2,7 @@
 <html>
 <body>
   <h3> Bibliothèques utiliséés:</h3> Pandas, Beautifulsoup, matplotlib, numpy, threading, multiprocessing , os, time, math <br/><br/>
-  Il contient 2 parties: <br/>
+  Il contient 2 parties: <br/><br/>
   <ol>
     <li>Partie scraping: </li>
       <ul>
