@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h3> Bibliothèques utiliséés:</h3> Pandas, Beautifulsoup, matplotlib, numpy, threading, multiprocessing , os, time, math <br/>
-  
+  <h3> Bibliothèques utiliséés:</h3> Pandas, Beautifulsoup, matplotlib, numpy, threading, multiprocessing , os, time, math <br/><br/>
+  Il contient 2 parties: <br/>
   <ol>
     <li>Partie scraping: </li>
       <ul>
