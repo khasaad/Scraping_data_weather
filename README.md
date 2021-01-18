@@ -18,6 +18,14 @@
               Il uilise le script "sequential_scraping_meteo.py " pour faire un tableau csv qui contient le data et le donne automatiquement le nom avec l'année précisée.
             </ul>
             <li>Partie sequential avec détails</li>
+            Cette partie fait scraping data météo avec détails (degré température minimale, maximale, moyenne, condition de météo (pire:0, mauvaise:1, moyenne:2, bonne:3))                  en île-de-France. <br/>
+         Il contient 2 scripts python:
+            <ul>
+              <li>sequential_scraping_weather_France_with_details.py</li>
+              Il contient une fonction (scraping_detail()) qui fait le scraping data météo avec détails (Dans le output il faut choisir l'année souhaitée)
+              <li>Dict_sequential_scraping_weather_France_with_details.py</li>
+              Il uilise le script "Dict_sequential_scraping_weather_France_with_details.py " pour faire un tableau csv qui contient le data et le donne automatiquement le nom avec l'année précisée.
+            </ul>
             <li>Partie parallèle</li>
           </ul>
       </ul>
