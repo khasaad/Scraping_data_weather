@@ -36,7 +36,7 @@
         Il utilise multiprocessing library avec module Pool and map function.
       </ul>
 
-    </ul>
+    
   </ul>
   <li>partie visualisation</li>
   Cette partie contient un script python:<br/>
