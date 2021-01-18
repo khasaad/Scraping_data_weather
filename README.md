@@ -10,6 +10,11 @@
         <li>scraping data météo from site:  https://www.historique-meteo.net/france/ile-de-france/ </li>
           <ul>
             <li>Partie sequential</li>
+            Il contient 2 scripts python: <br/>
+            <ul>
+              <li>sequential_scraping_meteo.py </li>
+              <li> Dict_sequential_scraping_meteo.py </li> 
+            </ul>
             <li>Partie sequential avec détails</li>
             <li>Partie parallèle</li>
           </ul>
