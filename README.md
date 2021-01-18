@@ -1,12 +1,12 @@
 
 
-Bibliothèques utiliséés: Pandas, Beautifulsoup, matplotlib, numpy, threading, multiprocessing , os, time, math
+Bibliothèques utiliséés: Pandas, Beautifulsoup, matplotlib, numpy, threading, multiprocessing , os, time, math <br/>
 
-Partie scraping: 
-1- scraping data twitter: LDLC 
+Partie scraping: <br/>
+1- scraping data twitter: LDLC <br/>
 
-2- scraping data météo from site: https://www.historique-meteo.net/france/ile-de-france/
---> Partie sequential: Cette partie fait le scraping data météo en île de France par méthode sequential
+2- scraping data météo from site: https://www.historique-meteo.net/france/ile-de-france/ <br/>
+--> Partie sequential: Cette partie fait le scraping data météo en île de France par méthode sequential <br/>
 
---> Partie parallèle:
+--> Partie parallèle: <br/>
                  
