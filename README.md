@@ -27,6 +27,13 @@
          Il uilise le script "Dict_sequential_scraping_weather_France_with_details.py " pour faire un tableau csv qui contient le data et le donne automatiquement le nom avec            l'année précisée
       </ul>
       <li>Partie parallèle</li>
+      Cette partie fait scraping data météo en île-de-France par deux méthodes parallèles du site: https://www.historique-meteo.net/france/ile-de-france/ <br/>
+      Il contient deux scripts python: <br/>
+      <ul>
+        <li>parallel_scraping_meteo_France.py</li> 
+        Il utilise threading library, on choisit toujours 2*cores qui égale 16 threading. Dans le output il faut choisir l'année souhaitée et le donne automatiquement le nom             du fichier csv avec l'année précisée
+      </ul>
+
     </ul>
   </ul>
   <li>partie visualisation</li>
