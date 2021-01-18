@@ -40,7 +40,7 @@
     <li>partie visualisation</li>
     Cette partie contient un script python:<br/>
     visualisation.py:  <br/>
-    Il contient deux fonctions: 
+    Il contient deux fonctions et il faut utiliser les fichiers qui sortent de la fonction "Dict_sequential_scraping_weather_France_with_details.py" pour l'année 2018-2019-2020 et de la code "twitter_ldlc.py". 
   <ul>
     <li>correlation_between_temperature_and_tweets(df, year='2018', month='08'):</li>
     Elle visualise la corrélation entre température et tweets en utilisant matplotlib library.
