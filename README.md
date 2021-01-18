@@ -8,6 +8,11 @@
       <ul>
         <li>scraping data twitter: LDLC </li>
         <li>scraping data météo from site:  https://www.historique-meteo.net/france/ile-de-france/ </li>
+          <ul>
+            <li>Partie sequential</li>
+            <li>Partie sequential avec détails</li>
+            <li>Partie parallèle</li>
+          </ul>
       </ul>
     <li>partie visualisation</li>
   </ol>
