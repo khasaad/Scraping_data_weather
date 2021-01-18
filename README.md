@@ -13,6 +13,7 @@
       <li>Partie parallèle</li>
     </ul>
   </ul>
+  <li>partie visualisation</li>
 </ol>
 
                  
