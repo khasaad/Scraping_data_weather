@@ -4,6 +4,7 @@
 
 <h3> Bibliothèques utiliséés:</h3> Pandas, Beautifulsoup, matplotlib, numpy, threading, multiprocessing , os, time, math <br/>
 <ol>
+  
   <li>Partie scraping: </li>
   <ul>
     <li>scraping data twitter: LDLC </li>
@@ -17,6 +18,7 @@
         <li> Dict_sequential_scraping_meteo.py </li> 
         Il uilise le script "sequential_scraping_meteo.py " pour faire un tableau csv qui contient le data et le donne automatiquement le nom avec l'année précisée
         </ul>
+     
       <li>Partie sequential avec détails</li>
       Cette partie fait scraping data météo avec détails (degré température minimale, maximale, moyenne, condition de météo (pire:0, mauvaise:1, moyenne:2, bonne:3)) en île-de-         France. <br/>
       Il contient 2 scripts python:
