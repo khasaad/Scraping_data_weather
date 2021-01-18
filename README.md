@@ -10,7 +10,9 @@
     <li>scraping data météo from site:  https://www.historique-meteo.net/france/ile-de-france/ </li>
     <ul>
       <li>Partie sequential</li>
-      Il contient 2 scripts python:
+      Il contient 2 scripts python: <br/>
+      sequential_scraping_meteo.py --> Il contient un fonction (sequential_scraping()) qui fait le scraping data météo (Dans le output il faut choisir l'année souhaitée)
+      Dict_sequential_scraping_meteo.py --> Il uilise le script "sequential_scraping_meteo.py " pour faire un tableau csv qui contient le data et le donne automatiquement le nom avec l'année précisée
       <li>Partie sequential avec détails</li>
       <li>Partie parallèle</li>
     </ul>
