@@ -1,4 +1,6 @@
-
+<!DOCTYPE html>
+<html>
+<body>
 
 <h3> Bibliothèques utiliséés:</h3> <h4> Pandas, Beautifulsoup, matplotlib, numpy, threading, multiprocessing , os, time, math </h4>  <br/>
 
@@ -10,3 +12,5 @@
 
 <h4> Partie parallèle: </h4> <br/>
                  
+</body>
+</html>
