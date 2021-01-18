@@ -31,12 +31,24 @@
       Il contient deux scripts python: <br/>
       <ul>
         <li>parallel_scraping_meteo_France.py</li> 
-        Il utilise threading library, on choisit toujours 2*cores qui égale 16 threading. Dans le output il faut choisir l'année souhaitée et le donne automatiquement le nom             du fichier csv avec l'année précisée
+        Il utilise threading library, on choisit toujours 2*cores qui égale 16 threading. Dans le output il faut choisir l'année souhaitée et le donne automatiquement le nom             du fichier csv avec l'année précisée.
+        <li>second_method_parallel_scraping_meteo_France.py</li> 
+        Il utilise multiprocessing library avec module Pool and map function.
       </ul>
 
     </ul>
   </ul>
   <li>partie visualisation</li>
+  Cette partie contient un script python:<br/>
+  visualisation.py:  <br/>
+  Il contient deux fonctions: 
+  <ul>
+  <li>correlation_between_temperature_and_tweets(df, year='2018', month='08'):</li>
+  Elle visualise la corrélation entre température et tweets en utilisant matplotlib library.
+  <li>show_temperature_same_months_in_18_19_20(month='01'):</li>
+  Elle visualise la température pendant un mois souhaitée pour les années 2018, 2019 et 2020 dans le même graphe.
+  </ul>
+ 
 </ol>
 
                  
