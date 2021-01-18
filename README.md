@@ -1,6 +1,6 @@
 
 
-Bibliothèques utiliséés: Pandas, Beautifulsoup, matplotlib, numpy, threading, multiprocessing , os, time, math <br/>
+<h3> Bibliothèques utiliséés: Pandas, Beautifulsoup, matplotlib, numpy, threading, multiprocessing , os, time, math </h3> <br/>
 
 Partie scraping: <br/>
 1- scraping data twitter: LDLC <br/>
