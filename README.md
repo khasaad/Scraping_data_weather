@@ -37,7 +37,7 @@
         <li>second_method_parallel_scraping_meteo_France.py</li> 
         Il utilise multiprocessing library avec module Pool and map function.
       </ul>
-
+    </ul>
     
   </ul>
   <li>partie visualisation</li>
