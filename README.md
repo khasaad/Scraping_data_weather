@@ -7,6 +7,7 @@
     <li>Partie scraping: </li> 	
 	<ul>
 	<li>scraping data twitter: LDLC </li>
+	<ul>
          <li>scrap_twitter.py: </li>
                   fichier .py qui exécute une commande ILC dans le terminal avec snscrape, une bibliothèque permettant le scraping de twitter selon des paramètres définis par l’utilisateur via l’API twitter. </br>
           → LDLC_tweet.csv (les 17000 derniers tweets afin d’avoir 3 ans de données)
@@ -34,6 +35,7 @@
           <li>chart_pie_media.py & chart_ bar_media.py:  </li>
           création de graph depuis « LDLC_tweets_media.csv »</br>
 						→slide 18
+	</ul>
         </ul>
       <ul>
         <li>scraping data météo from site:  https://www.historique-meteo.net/france/ile-de-france/ </li>
