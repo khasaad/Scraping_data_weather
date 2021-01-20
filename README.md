@@ -5,6 +5,14 @@
   Il contient 2 parties: <br/><br/>
   <ol>
     <li>Partie scraping: </li>
+        <ul>
+          <li>scrap_twitter.py: </li>
+          <li>csv_edit.py: </li>
+          <li>csv_merge.py: </li>
+          <li>profiling.py: </li>
+          <li>chart_bar_weather.py: </li>
+          <li>chart_pie_media.py & chart_ bar_media.py:  </li>
+        </ul>
       <ul>
         <li>scraping data twitter: LDLC </li>
         <li>scraping data météo from site:  https://www.historique-meteo.net/france/ile-de-france/ </li>
