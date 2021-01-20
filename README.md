@@ -2,14 +2,15 @@
 <html>
 <body>
   <h3> Bibliothèques utiliséés:</h3> Pandas, Beautifulsoup, matplotlib, seaborn, numpy, threading, multiprocessing , os, time, math <br/><br/>
-  Il contient 2 parties: <br/><br/>
-    <li>Partie scraping: </li>     
+  Il contient 2 parties: <br/><br/> 
     <ul>
+    <li>Partie scraping: </li>     
+	<li>scraping data twitter: LDLC </li>
+	            <ul>
          <li>scrap_twitter.py: </li>
                   fichier .py qui exécute une commande ILC dans le terminal avec snscrape, une bibliothèque permettant le scraping de twitter selon des paramètres définis par l’utilisateur via l’API twitter. </br>
           → LDLC_tweet.csv (les 17000 derniers tweets afin d’avoir 3 ans de données)
           <B>notes</B>: installer snscrape via « pip install git+https://github.com/JustAnotherArchivist/snscrape.git » afin d’obtenir la version développeur qui permet d’obtenir des infos depuis les tweets plutôt que depuis l’url des tweets.
-        <ul>
           <li>csv_edit.py: </li>
            édition de « LDLC_tweet.csv » pour éliminer les informations inutiles, en ajouter, réduire le poids et mettre en forme.</br>
           →best_tweets.csv (sélection des tweets les plus like)</br>
@@ -34,9 +35,7 @@
           création de graph depuis « LDLC_tweets_media.csv »</br>
 						→slide 18
         </ul>
-      </ul>
       <ul>
-        <li>scraping data twitter: LDLC </li>
         <li>scraping data météo from site:  https://www.historique-meteo.net/france/ile-de-france/ </li>
           <ul>
             <li>Partie sequential</li>
