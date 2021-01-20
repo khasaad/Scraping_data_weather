@@ -8,6 +8,7 @@
          <li>scrap_twitter.py: </li>
         <ul>
           <li>csv_edit.py: </li>
+          fichier .py qui exécute une commande ILC dans le terminal avec snscrape, une bibliothèque permettant le scraping de twitter selon des paramètres définis par l’utilisateur via l’API twitter.
           <li>csv_merge.py: </li>
           <li>profiling.py: </li>
           <li>chart_bar_weather.py: </li>
