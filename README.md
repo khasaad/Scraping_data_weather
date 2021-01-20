@@ -8,7 +8,8 @@
          <li>scrap_twitter.py: </li>
         <ul>
           <li>csv_edit.py: </li>
-          fichier .py qui exécute une commande ILC dans le terminal avec snscrape, une bibliothèque permettant le scraping de twitter selon des paramètres définis par l’utilisateur via l’API twitter.
+          fichier .py qui exécute une commande ILC dans le terminal avec snscrape, une bibliothèque permettant le scraping de twitter selon des paramètres définis par l’utilisateur via l’API twitter. → LDLC_tweet.csv (les 17000 derniers tweets afin d’avoir 3 ans de données)
+          <B>notes</B>: installer snscrape via « pip install git+https://github.com/JustAnotherArchivist/snscrape.git » afin d’obtenir la version développeur qui permet d’obtenir des infos depuis les tweets plutôt que depuis l’url des tweets.
           <li>csv_merge.py: </li>
           <li>profiling.py: </li>
           <li>chart_bar_weather.py: </li>
