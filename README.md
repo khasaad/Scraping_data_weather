@@ -4,10 +4,9 @@
   <h3> Bibliothèques utiliséés:</h3> Pandas, Beautifulsoup, matplotlib, seaborn, numpy, threading, multiprocessing , os, time, math <br/><br/>
   Il contient 2 parties: <br/><br/> 
     <ul>
-    <li>Partie scraping: </li> 
-	    <ul>
-	<li>scraping data twitter: LDLC </li>
+    <li>Partie scraping: </li> 	
 	<ul>
+	<li>scraping data twitter: LDLC </li>
          <li>scrap_twitter.py: </li>
                   fichier .py qui exécute une commande ILC dans le terminal avec snscrape, une bibliothèque permettant le scraping de twitter selon des paramètres définis par l’utilisateur via l’API twitter. </br>
           → LDLC_tweet.csv (les 17000 derniers tweets afin d’avoir 3 ans de données)
@@ -67,7 +66,7 @@
             </ul>
           </ul>
       </ul>
-      </ul>
+
     <li>partie visualisation</li>
     Cette partie contient un script python:<br/>
     visualisation.py:  <br/>
