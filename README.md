@@ -2,6 +2,7 @@
 <html>
 <body>
   <h3> Bibliothèques utiliséés:</h3> Pandas, Beautifulsoup, matplotlib, seaborn, numpy, threading, multiprocessing , os, time, math <br/><br/>
+  <h3>Slide google: </h3>  https://docs.google.com/presentation/d/1WA6l8bBAvUmFnGiNW4qu3X53quZC02TX6PCtFiPwAV4/edit#slide=id.gb61c4ecbd6_1_0 <br/><br/>
   Il contient 2 parties: <br/><br/> 
     <ul>
     <li>Partie scraping: </li> 	
