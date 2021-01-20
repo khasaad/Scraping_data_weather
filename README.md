@@ -1,12 +1,22 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h3> Bibliothèques utiliséés:</h3> Pandas, Beautifulsoup, matplotlib, numpy, threading, multiprocessing , os, time, math <br/><br/>
+  <h3> Bibliothèques utiliséés:</h3> Pandas, Beautifulsoup, matplotlib, seaborn, numpy, threading, multiprocessing , os, time, math <br/><br/>
   Il contient 2 parties: <br/><br/>
   <ol>
     <li>Partie scraping: </li>
       <ul>
         <li>scraping data twitter: LDLC </li>
+        
+        <ul>
+          <li>scrap_twitter.py: </li>
+          <li>csv_edit.py: </li>
+          <li>csv_merge.py: </li>
+          <li>profiling.py: </li>
+          <li>chart_bar_weather.py: </li>
+          <li>chart_pie_media.py & chart_ bar_media.py:  </li>
+        </ul>
+        
         <li>scraping data météo from site:  https://www.historique-meteo.net/france/ile-de-france/ </li>
           <ul>
             <li>Partie sequential</li>
