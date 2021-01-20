@@ -12,7 +12,6 @@
           <li>profiling.py: </li>
           <li>chart_bar_weather.py: </li>
           <li>chart_pie_media.py & chart_ bar_media.py:  </li>
-
         </ul>
       <ul>
         <li>scraping data twitter: LDLC </li>
