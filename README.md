@@ -6,7 +6,7 @@
     <ul>
     <li>Partie scraping: </li>     
 	<li>scraping data twitter: LDLC </li>
-	            <ul>
+	<ul>
          <li>scrap_twitter.py: </li>
                   fichier .py qui exécute une commande ILC dans le terminal avec snscrape, une bibliothèque permettant le scraping de twitter selon des paramètres définis par l’utilisateur via l’API twitter. </br>
           → LDLC_tweet.csv (les 17000 derniers tweets afin d’avoir 3 ans de données)
