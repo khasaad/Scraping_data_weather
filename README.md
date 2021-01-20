@@ -7,9 +7,6 @@
     <li>Partie scraping: </li>
       <ul>
         <li>scraping data twitter: LDLC </li>
-        
-
-        
         <li>scraping data météo from site:  https://www.historique-meteo.net/france/ile-de-france/ </li>
           <ul>
             <li>Partie sequential</li>
