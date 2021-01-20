@@ -17,6 +17,12 @@
           →LDLC_tweets_edited.csv (version édité des tweets)</br>
           →LDLC_tweets_edited_light.csv (version plus légère, sans le commentaire du tweet)
           <li>csv_merge.py: </li>
+          concaténation des fichiers « météo_France-2020.csv, météo_France-2019.csv, météo_France-2018.csv ». Mise en forme du dataframe résultant.</br>
+          Chargement du fichier « LDLC_tweets_edited_light.csv », mise en forme.</br>
+          Merge des 2 dataframes afin d’avoir les tweets en relation avec la météo.</br>
+          Print() de différentes données afin de remplir la slide 9.</br>
+          →LDLC_tweets_media.csv ( dataframe pour la création des graphs média)</br>
+          →meteo_tweets.csv (dataframe tweets + météo de janvier 2018 à novembre 2020)
           <li>profiling.py: </li>
           <li>chart_bar_weather.py: </li>
           <li>chart_pie_media.py & chart_ bar_media.py:  </li>
