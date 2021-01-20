@@ -3,10 +3,9 @@
 <body>
   <h3> Bibliothèques utiliséés:</h3> Pandas, Beautifulsoup, matplotlib, seaborn, numpy, threading, multiprocessing , os, time, math <br/><br/>
   Il contient 2 parties: <br/><br/>
-  <ol>
-    <li>Partie scraping: </li>
-          <li>scrap_twitter.py: </li>
+    <li>Partie scraping: </li>     
     <ul>
+         <li>scrap_twitter.py: </li>
         <ul>
           <li>csv_edit.py: </li>
           <li>csv_merge.py: </li>
