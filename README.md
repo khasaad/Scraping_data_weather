@@ -24,8 +24,15 @@
           →LDLC_tweets_media.csv ( dataframe pour la création des graphs média)</br>
           →meteo_tweets.csv (dataframe tweets + météo de janvier 2018 à novembre 2020)
           <li>profiling.py: </li>
+          profiling de « meteo_tweets.csv »</br>
+		      →rapport-tweets.html</br>
+		      →graph slide 4 </br>
           <li>chart_bar_weather.py: </li>
+          création de graph depuis « meteo_tweets.csv ».</br>
+			    →slide 15
           <li>chart_pie_media.py & chart_ bar_media.py:  </li>
+          création de graph depuis « LDLC_tweets_media.csv »</br>
+						→slide 18
         </ul>
       </ul>
       <ul>
