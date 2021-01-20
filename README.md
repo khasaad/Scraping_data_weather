@@ -4,7 +4,8 @@
   <h3> Bibliothèques utiliséés:</h3> Pandas, Beautifulsoup, matplotlib, seaborn, numpy, threading, multiprocessing , os, time, math <br/><br/>
   Il contient 2 parties: <br/><br/> 
     <ul>
-    <li>Partie scraping: </li>     
+    <li>Partie scraping: </li> 
+	    <ul>
 	<li>scraping data twitter: LDLC </li>
 	<ul>
          <li>scrap_twitter.py: </li>
@@ -65,6 +66,7 @@
               Il utilise multiprocessing library avec module Pool and map function.
             </ul>
           </ul>
+      </ul>
       </ul>
     <li>partie visualisation</li>
     Cette partie contient un script python:<br/>
