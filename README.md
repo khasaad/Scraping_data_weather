@@ -66,7 +66,6 @@
             </ul>
           </ul>
       </ul>
-
     <li>partie visualisation</li>
     Cette partie contient un script python:<br/>
     visualisation.py:  <br/>
